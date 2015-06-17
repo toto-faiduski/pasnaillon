@@ -1,2 +1,2 @@
 # pasnaillon
-un conte basé sur la légende Rumillienne
+un conte inspiré de la légende Rumillienne
